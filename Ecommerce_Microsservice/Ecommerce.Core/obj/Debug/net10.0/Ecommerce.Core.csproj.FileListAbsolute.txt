@@ -1,0 +1,13 @@
+/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/bin/Debug/net10.0/Ecommerce.Core.deps.json
+/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/bin/Debug/net10.0/Ecommerce.Core.dll
+/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/bin/Debug/net10.0/Ecommerce.Core.pdb
+/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/obj/Debug/net10.0/Ecommerce.Core.csproj.AssemblyReference.cache
+/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/obj/Debug/net10.0/Ecommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/obj/Debug/net10.0/Ecommerce.Core.AssemblyInfoInputs.cache
+/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/obj/Debug/net10.0/Ecommerce.Core.AssemblyInfo.cs
+/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/obj/Debug/net10.0/Ecommerce.Core.csproj.CoreCompileInputs.cache
+/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/obj/Debug/net10.0/Ecommerce.Core.dll
+/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/obj/Debug/net10.0/refint/Ecommerce.Core.dll
+/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/obj/Debug/net10.0/Ecommerce.Core.pdb
+/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/obj/Debug/net10.0/ref/Ecommerce.Core.dll
+/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/obj/Debug/net10.0/Ecommerce.Core.sourcelink.json
