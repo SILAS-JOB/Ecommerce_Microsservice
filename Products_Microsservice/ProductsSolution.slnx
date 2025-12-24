@@ -1,9 +1,5 @@
 <Solution>
-  <Folder Name="/BusineesLogicLayer/">
-    <Project Path="BusineesLogicLayer/Products.Infraestructure.csproj" />
-  </Folder>
-  <Folder Name="/DataAcessLayer/">
-    <Project Path="DataAcessLayer/Products.Core.csproj" />
-  </Folder>
+  <Project Path="BusinessLogicLayer/BusinessLogicLayer.csproj" />
+  <Project Path="DataAcessLayer/DataAcessLayer.csproj" />
   <Project Path="Products.Api/Products.Api.csproj" />
 </Solution>

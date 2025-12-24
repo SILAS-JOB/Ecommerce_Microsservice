@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tOUPFbNJsmE=",
+  "dgSpecHash": "4iOEaL3CddU=",
   "success": true,
-  "projectFilePath": "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Infrastructure/Ecommerce.Infrastructure.csproj",
+  "projectFilePath": "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Infrastructure/Ecommerce.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/home/silas/.nuget/packages/automapper/16.0.0/automapper.16.0.0.nupkg.sha512",
     "/home/silas/.nuget/packages/dapper/2.1.66/dapper.2.1.66.nupkg.sha512",

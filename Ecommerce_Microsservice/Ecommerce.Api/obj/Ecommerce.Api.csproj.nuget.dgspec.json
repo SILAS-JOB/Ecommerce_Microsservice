@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Api/Ecommerce.Api.csproj": {}
+    "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Api/Ecommerce.Api.csproj": {}
   },
   "projects": {
-    "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Api/Ecommerce.Api.csproj": {
+    "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Api/Ecommerce.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Api/Ecommerce.Api.csproj",
+        "projectUniqueName": "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Api/Ecommerce.Api.csproj",
         "projectName": "Ecommerce.Api",
-        "projectPath": "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Api/Ecommerce.Api.csproj",
+        "projectPath": "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Api/Ecommerce.Api.csproj",
         "packagesPath": "/home/silas/.nuget/packages/",
-        "outputPath": "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Api/obj/",
+        "outputPath": "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/silas/.nuget/NuGet/NuGet.Config"
@@ -27,11 +27,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/Ecommerce.Core.csproj": {
-                "projectPath": "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/Ecommerce.Core.csproj"
+              "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Core/Ecommerce.Core.csproj": {
+                "projectPath": "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Core/Ecommerce.Core.csproj"
               },
-              "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Infrastructure/Ecommerce.Infrastructure.csproj": {
-                "projectPath": "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Infrastructure/Ecommerce.Infrastructure.csproj"
+              "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Infrastructure/Ecommerce.Infrastructure.csproj": {
+                "projectPath": "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Infrastructure/Ecommerce.Infrastructure.csproj"
               }
             }
           }
@@ -514,14 +514,14 @@
         }
       }
     },
-    "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/Ecommerce.Core.csproj": {
+    "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Core/Ecommerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/Ecommerce.Core.csproj",
+        "projectUniqueName": "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Core/Ecommerce.Core.csproj",
         "projectName": "Ecommerce.Core",
-        "projectPath": "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/Ecommerce.Core.csproj",
+        "projectPath": "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Core/Ecommerce.Core.csproj",
         "packagesPath": "/home/silas/.nuget/packages/",
-        "outputPath": "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/obj/",
+        "outputPath": "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/silas/.nuget/NuGet/NuGet.Config"
@@ -862,14 +862,14 @@
         }
       }
     },
-    "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Infrastructure/Ecommerce.Infrastructure.csproj": {
+    "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Infrastructure/Ecommerce.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Infrastructure/Ecommerce.Infrastructure.csproj",
+        "projectUniqueName": "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Infrastructure/Ecommerce.Infrastructure.csproj",
         "projectName": "Ecommerce.Infrastructure",
-        "projectPath": "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Infrastructure/Ecommerce.Infrastructure.csproj",
+        "projectPath": "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Infrastructure/Ecommerce.Infrastructure.csproj",
         "packagesPath": "/home/silas/.nuget/packages/",
-        "outputPath": "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Infrastructure/obj/",
+        "outputPath": "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/silas/.nuget/NuGet/NuGet.Config"
@@ -885,8 +885,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/Ecommerce.Core.csproj": {
-                "projectPath": "/home/silas/Dev/Projetos/Ecommerce_Microsservice/Ecommerce.Core/Ecommerce.Core.csproj"
+              "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Core/Ecommerce.Core.csproj": {
+                "projectPath": "/home/silas/Dev/Projetos/SampleMicrosservices/Ecommerce_Microsservice/Ecommerce.Core/Ecommerce.Core.csproj"
               }
             }
           }
