@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/silas/Dev/Projetos/SampleMicrosservices/Products_Microsservice/Products.Core/Products.Core.csproj": {}
+    "/home/silas/Dev/Projetos/SampleMicrosservices/Products_Microsservice/DataAcessLayer/DataAcessLayer.csproj": {}
   },
   "projects": {
-    "/home/silas/Dev/Projetos/SampleMicrosservices/Products_Microsservice/Products.Core/Products.Core.csproj": {
+    "/home/silas/Dev/Projetos/SampleMicrosservices/Products_Microsservice/DataAcessLayer/DataAcessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/silas/Dev/Projetos/SampleMicrosservices/Products_Microsservice/Products.Core/Products.Core.csproj",
-        "projectName": "Products.Core",
-        "projectPath": "/home/silas/Dev/Projetos/SampleMicrosservices/Products_Microsservice/Products.Core/Products.Core.csproj",
+        "projectUniqueName": "/home/silas/Dev/Projetos/SampleMicrosservices/Products_Microsservice/DataAcessLayer/DataAcessLayer.csproj",
+        "projectName": "DataAcessLayer",
+        "projectPath": "/home/silas/Dev/Projetos/SampleMicrosservices/Products_Microsservice/DataAcessLayer/DataAcessLayer.csproj",
         "packagesPath": "/home/silas/.nuget/packages/",
-        "outputPath": "/home/silas/Dev/Projetos/SampleMicrosservices/Products_Microsservice/Products.Core/obj/",
+        "outputPath": "/home/silas/Dev/Projetos/SampleMicrosservices/Products_Microsservice/DataAcessLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/silas/.nuget/NuGet/NuGet.Config"
@@ -44,6 +44,20 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.5.0, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
