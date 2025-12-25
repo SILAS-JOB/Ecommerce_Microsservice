@@ -3,7 +3,7 @@ public record ProductResponse(
     Guid ProductID,
     string ProductName, 
     CategoryOptions Category, 
-    double UnitPrice, 
+    double? UnitPrice, 
     int? QuantityInStock
 )
 {
