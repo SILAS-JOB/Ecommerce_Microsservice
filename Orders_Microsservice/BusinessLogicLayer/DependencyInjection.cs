@@ -7,6 +7,11 @@ public static class DependencyInjection
 {
     public static IServiceCollection AddBusinessLogicLayer(this IServiceCollection services, IConfiguration configuration)
     {
-        return services;
+    services.AddValidatorsFromAssemblyContaining<OrderAddRequestValidator>();
+
+    services.AddAutoMapper(typeof(OrderAddRequestToOrderMappingProfile).Assembly);
+
+    services.AddScoped<IOrdersService, OrdersService>();
+    return services;
     }
 }
